@@ -1,0 +1,57 @@
+/* Priyanka Hitendra Patil,000881740 */
+header{
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+body {
+    font-family: Arial, sans-serif, Helvetica;
+    background-color: rgb(227, 241, 247);
+   
+}
+
+h1,#designation{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#designation{
+   margin-top: 0px;
+   font-style: italic;
+}
+
+img{
+        float: right;
+        margin-right: 28px;
+        border-radius: 5%;
+}
+
+h2,h3{
+    text-decoration: underline;
+}
+
+nav ul {
+    list-style-type:none;    
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration:underline;
+}
+
+#summary,#education,#skills,#projects,#resume,#contact{
+margin-left: 30px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
